@@ -25,3 +25,11 @@ I’m a final-year Computer Science student with experience in software developm
 ### 🩺 [Multimodal Breast Ultrasound VLM](https://github.com/User-Akash78/multimodal-breast-ultrasound-vlm)
 
 developed an end-to-end multimodal breast ultrasound decision-support system that combines breast ultrasound images with structured clinical data to automatically segment breast lesions, generate a diagnostic prediction, and produce a structured diagnostic report.
+
+
+## 🤝 Let's Connect!
+
+I'm currently looking for internship opportunities 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-akash)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:Akashdeva71@gmail.com)
