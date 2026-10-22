@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Akash! 👋
 
-<!--
-**User-Akash78/User-Akash78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 Based in Singapore | 🎓 Computer Science Student at Coventry University
 
-Here are some ideas to get you started:
+*Software Development, AI/ML and Cloud | Python, PyTorch, SQL, Azure*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a final-year Computer Science student with experience in software development, AI, data, cloud technologies, and CI/CD. I enjoy building practical solutions, working with data, and exploring how AI and software can be used to solve real-world problems.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,azure,docker,fastapi,git,github,vscode" />
+</p>
