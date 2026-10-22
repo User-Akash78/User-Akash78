@@ -14,11 +14,13 @@ I’m a final-year Computer Science student with experience in software developm
   <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,azure,docker,fastapi,git,github,vscode" />
 </p>
 
-**AI & Machine Learning:** Machine Learning, Deep Learning, NLP, LLMs, RAG, VLM
+**AI & Machine Learning:** Machine Learning, Deep Learning, Computer Vision, NLP, Vision-Language Models, PyTorch
 
 **Data & Visualisation:** Power BI, Tableau, EDA, Feature Engineering  
 
-**Cloud & Deployment:** Azure, Docker, MLflow, FastAPI, Streamlit  
+**Cloud & Deployment:** Azure, Docker, GitHub, CI/CD, MLflow, FastAPI, Streamlit  
+
+---
 
 ## 🚀 Featured Projects
 
@@ -31,7 +33,6 @@ developed an end-to-end multimodal breast ultrasound decision-support system tha
 ## 💡 I'm Interested In
 
 - Generative AI and large language models
-- Retrieval-Augmented Generation
 - Machine learning and deep learning
 - Computer Vision
 - Software Development
