@@ -1,8 +1,8 @@
-# Hi there, I'm Akash! 👋
+# Hello, I'm Akash! 👋
 
 🌏 Based in Singapore | 🎓 Computer Science Student at Coventry University
 
-*Software Development, AI/ML and Cloud | Python, PyTorch, SQL, Azure*
+*Software Development | AI/ML | Cloud | Data Analytics*
 
 I’m a final-year Computer Science student with experience in software development, AI, data, cloud technologies, and CI/CD. I enjoy building practical solutions, working with data, and exploring how AI and software can be used to solve real-world problems.
 
@@ -26,6 +26,18 @@ I’m a final-year Computer Science student with experience in software developm
 
 developed an end-to-end multimodal breast ultrasound decision-support system that combines breast ultrasound images with structured clinical data to automatically segment breast lesions, generate a diagnostic prediction, and produce a structured diagnostic report.
 
+---
+
+## 💡 I'm Interested In
+
+- Generative AI and large language models
+- Retrieval-Augmented Generation
+- Machine learning and deep learning
+- Computer Vision
+- Software Development
+- Cloud-based AI product development
+
+---
 
 ## 🤝 Let's Connect!
 
