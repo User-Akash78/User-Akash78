@@ -22,6 +22,6 @@ I’m a final-year Computer Science student with experience in software developm
 
 ## 🚀 Featured Projects
 
-### 💳 [Multimodal Breast Ultrasound VLM](https://github.com/User-Akash78/multimodal-breast-ultrasound-vlm)
+### 🩺 [Multimodal Breast Ultrasound VLM](https://github.com/User-Akash78/multimodal-breast-ultrasound-vlm)
 
 developed an end-to-end multimodal breast ultrasound decision-support system that combines breast ultrasound images with structured clinical data to automatically segment breast lesions, generate a diagnostic prediction, and produce a structured diagnostic report.
